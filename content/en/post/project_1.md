@@ -1,7 +1,7 @@
 ---
 description: "YouTube data analysis that summarizes global statistics on uploads, views, earnings, and subscribers by continent and country."
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["Youtube-data-analysis Github Repository"]
+featured_image: "/images/powerbi.png"
+#tags: [Youtube-data-analysis Github Repository]
 title: "Project 1: Youtube-data-analysis"
 ---
 
@@ -20,3 +20,7 @@ In this project, I dove deep into YouTube's vast global dataset to uncover trend
   - Visualization: Crafted interactive Power BI dashboards to visually present the findings, making data easier to digest and showcasing patterns at a glance.
 
 This project demonstrates my ability to handle big data, extract meaningful business insights, and transform those insights into visually compelling presentations that drive strategic decision-making. My work in data-driven storytelling positions me as a valuable asset for any organization looking to leverage data for growth.
+
+{{<figure src="/images/powerbi.png">}}
+
+[Youtube-data-analysis Github Repository](https://github.com/The-alpha-male/Youtube-data-analysis.git)

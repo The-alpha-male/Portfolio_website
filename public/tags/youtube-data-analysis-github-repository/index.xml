@@ -7,12 +7,5 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/tags/youtube-data-analysis-github-repository/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project 1: Youtube-data-analysis</title>
-      <link>http://localhost:1313/post/project_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project_1/</guid>
-      <description>&lt;h2 id=&#34;youtube-global-data-analysis&#34;&gt;YouTube Global Data Analysis:&lt;/h2&gt;&#xA;&lt;p&gt;In this project, I dove deep into YouTube&amp;rsquo;s vast global dataset to uncover trends and insights that shape the platform’s success across continents. By leveraging a comprehensive dataset from Kaggle, I explored key metrics like uploads, views, subscriber counts, and estimated earnings, transforming raw data into actionable insights.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Continental Insights: I aggregated data to compare YouTube&amp;rsquo;s performance across continents, analyzing total subscribers, uploads, views, earnings, and the number of active content creators per region. This helped highlight regional disparities and dominant markets.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
