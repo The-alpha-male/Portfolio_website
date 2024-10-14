@@ -1,10 +1,10 @@
 ---
 description: "YouTube data analysis that summarizes global statistics on uploads, views, earnings, and subscribers by continent and country."
-featured_image: "/images/robot-machine-learning.png"
-title: "Project 2: Solubility_Predictor"
+featured_image: "/images/machine_learning.png"
+title: "Project 2: Solubility Predictor"
 ---
 
-## Solubility_Predictor:
+
 In this project, I delved into a molecular solubility dataset to predict the aqueous solubility (logS) of chemical compounds based on molecular descriptors. By leveraging a comprehensive dataset containing molecular descriptors from Delaney's solubility dataset, I explored key molecular properties like molecular weight, LogP, and the number of rotatable bonds, transforming raw chemical data into actionable predictive models.
 
 - Data Analysis: I meticulously prepared the dataset by separating the target variable (logS, which represents solubility) from the features (molecular descriptors). I then split the data into training and testing sets to ensure unbiased model evaluation.

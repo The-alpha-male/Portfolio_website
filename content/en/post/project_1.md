@@ -1,11 +1,9 @@
 ---
 description: "YouTube data analysis that summarizes global statistics on uploads, views, earnings, and subscribers by continent and country."
-featured_image: "/images/powerbi.png"
-#tags: [Youtube-data-analysis Github Repository]
-title: "Project 1: Youtube-data-analysis"
+featured_image: "/images/machine_learning.png"
+title: "Project 1: YouTube Global Data Analysis"
 ---
 
-## YouTube Global Data Analysis:
 In this project, I dove deep into YouTube's vast global dataset to uncover trends and insights that shape the platform’s success across continents. By leveraging a comprehensive dataset from Kaggle, I explored key metrics like uploads, views, subscriber counts, and estimated earnings, transforming raw data into actionable insights.
 
 - Continental Insights: I aggregated data to compare YouTube's performance across continents, analyzing total subscribers, uploads, views, earnings, and the number of active content creators per region. This helped highlight regional disparities and dominant markets.

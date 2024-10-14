@@ -15,11 +15,7 @@ enableRobotsTXT = true
 title = "Ronny Munene"
 weight = 1
 contentDir = "content/en"
-# languageDirection = 'rtl' for Right-To-Left languages
-[languages.fr]
-title = "Ronny Munene"
-weight = 2
-contentDir = "content/fr"
+
 
 [sitemap]
 changefreq = "monthly"
@@ -35,7 +31,8 @@ description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 recent_posts_number = 3
+github = "https://www.linkedin.com/in/ronny-munene/"
+linkedin = "https://www.linkedin.com/in/ronny-munene/"
+x = "https://twitter.com/@ronnymunene4"
+medium = "https://medium.com/@ronnymunene360"
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"

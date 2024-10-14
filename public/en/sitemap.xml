@@ -21,16 +21,6 @@
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/post/"
-                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
@@ -53,22 +43,16 @@
     <loc>http://localhost:1313/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/contact/"
-                />
   </url><url>
     <loc>http://localhost:1313/post/project_1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/project_2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/project_3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

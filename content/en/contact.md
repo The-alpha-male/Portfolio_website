@@ -1,14 +1,19 @@
 ---
 title: Contact
-featured_image: ''
+featured_image: '/images/notebook.jpg'
 omit_header_text: true
-description: We'd love to hear from you
+description: I'd love to hear from you
 type: page
 menu: main
 
 ---
 
+Follow me on these social media platforms.  
+---| ---
+Platform|	URL
+Website:|	https://www.playingnumbers.com
+Twitter:|	https://twitter.com/@ronnymunene4
+LinkedIn:|	https://www.linkedin.com/in/ronny-munene/
+Medium:|	https://medium.com/@ronnymunene360
+GitHub:|	https://github.com/The-alpha-male
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
