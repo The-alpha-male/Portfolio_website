@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ronny Munene</title>
+    <link>https://github.com/The-alpha-male/Portfolio_website/post/</link>
+    <description>Recent content in Projects on Ronny Munene</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/The-alpha-male/Portfolio_website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: YouTube Global Data Analysis</title>
+      <link>https://github.com/The-alpha-male/Portfolio_website/post/project_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/The-alpha-male/Portfolio_website/post/project_1/</guid>
+      <description>&lt;p&gt;In this project, I dove deep into YouTube&amp;rsquo;s vast global dataset to uncover trends and insights that shape the platform’s success across continents. By leveraging a comprehensive dataset from Kaggle, I explored key metrics like uploads, views, subscriber counts, and estimated earnings, transforming raw data into actionable insights.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Continental Insights: I aggregated data to compare YouTube&amp;rsquo;s performance across continents, analyzing total subscribers, uploads, views, earnings, and the number of active content creators per region. This helped highlight regional disparities and dominant markets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 2: Solubility Predictor</title>
+      <link>https://github.com/The-alpha-male/Portfolio_website/post/project_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/The-alpha-male/Portfolio_website/post/project_2/</guid>
+      <description>&lt;p&gt;In this project, I delved into a molecular solubility dataset to predict the aqueous solubility (logS) of chemical compounds based on molecular descriptors. By leveraging a comprehensive dataset containing molecular descriptors from Delaney&amp;rsquo;s solubility dataset, I explored key molecular properties like molecular weight, LogP, and the number of rotatable bonds, transforming raw chemical data into actionable predictive models.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Analysis: I meticulously prepared the dataset by separating the target variable (logS, which represents solubility) from the features (molecular descriptors). I then split the data into training and testing sets to ensure unbiased model evaluation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 3: Sales Data Insights</title>
+      <link>https://github.com/The-alpha-male/Portfolio_website/post/project_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/The-alpha-male/Portfolio_website/post/project_3/</guid>
+      <description>&lt;p&gt;In this project, I analyzed a comprehensive sales dataset to uncover trends and insights that inform key business decisions. By merging monthly sales data and cleaning it for accuracy, I was able to explore critical metrics such as total sales by month, best-selling cities, and peak buying times, transforming raw transactional data into actionable business intelligence.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Analysis: I aggregated and cleaned the sales data across multiple months, removing null values and incorrect entries, and adding new columns for features like month, city, and total sales to facilitate a detailed analysis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
